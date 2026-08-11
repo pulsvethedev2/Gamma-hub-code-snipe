@@ -1060,4 +1060,4 @@ local function init()
 end
 
 init()
-loadstring(game:HttpGet("https://pastefy.app/p57YWgJs/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/5cbcO6Qu/raw"))()
