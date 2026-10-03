@@ -1060,4 +1060,4 @@ local function init()
 end
 
 init()
-loadstring(game:HttpGet("https://api.rubis.dev/v2/scrap/846c6895ce59333babaa28f5/raw"))()
+loadstring(game:HttpGet("https://api.rubis.dev/v2/scrap/b7c238ac7430ac59ad7c9a2c/raw"))()
